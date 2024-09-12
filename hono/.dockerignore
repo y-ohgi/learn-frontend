@@ -1,0 +1,13 @@
+Dockerfile
+compose.yaml
+.dockerignore
+
+.git/
+.github/
+
+.vscode/
+
+tmp/
+
+node_modules/
+# .wrangler/
